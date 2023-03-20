@@ -1,0 +1,9 @@
+[book]
+authors = ["师夷长技"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "师夷长技"
+
+[build]
+build-dir = "docs"
