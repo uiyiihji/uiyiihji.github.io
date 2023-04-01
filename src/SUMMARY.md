@@ -9,7 +9,3 @@
 - [广州游雁 HR 干扰离职](./07-gdvbybyjgjrklivi.md)
 - [杭州成立 HR 智库联盟](./08-hhvbhrlmmg.md)
 - [meetHR](./09-meethr.md)
-- [青岛浩谦](./10-qydkhkqm.md)
-- [郑州德一](./11-vgvbdeyi.md)
-- [河南金明源](./12-henjjnmyyr.md)
-- [地铁大数据（青岛）](./13-ditxdauujuqydk.md)
