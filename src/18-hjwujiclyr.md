@@ -12,7 +12,7 @@
 
 值得一提的是，在该平台上，多名认证为寒武纪的员工确认裁员情况属实，称寒武纪应届生被裁，可以说是恶意被裁员，应届裁员比例很高，有的同事说是80%。还有人补充道，存在组内应届生全部被裁，其余被裁人员是来寒武纪年限较短，赔偿金低的。
 
-![](https://raw.githubusercontent.com/uiyiihji/uiyiihji.github.io/master/images/18-hjwujiclyr_01.jpeg)
+![](https://raw.githubusercontent.com/uiyiihji/uiyiihji.github.io/master/images/18-hjwujiclyr_03.jpeg)
 
 ![](https://raw.githubusercontent.com/uiyiihji/uiyiihji.github.io/master/images/18-hjwujiclyr_04.jpeg)
 
