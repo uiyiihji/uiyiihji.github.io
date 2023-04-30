@@ -19,3 +19,16 @@
 同样，声称自己为寒武纪HRD的账号多次回应，称该信息不属实：1、公司2022年度绩效考核评定不存在“D”这个等级；2、公司根据客观绩效考核结果进行管理，并不会针对应届生，不存在所有的“恶意裁员”，更不存在80%的比例；3、信息描述的绩效评定G年度绩效奖金打三折更是与事实不符。
 
 ![](https://raw.githubusercontent.com/uiyiihji/uiyiihji.github.io/master/images/18-hjwujiclyr_05.jpeg)
+
+
+
+被裁人员透露，已去海淀仲裁委立案。
+
+![](https://raw.githubusercontent.com/uiyiihji/uiyiihji.github.io/master/images/18-hjwujiclyr_06.jpeg)
+
+
+
+资料：
+
+- [寒武纪被曝恶意裁员，员工称“应届裁员比例很高”，公司HRD回应|股价|应届生|hrd_网易订阅 (163.com)](https://www.163.com/dy/article/I2SDL2A30511A6N9.html)
+- [AI龙头寒武纪裁员？有研发部员工称被逼签字，年终奖与配股都没兑现_腾讯新闻 (qq.com)](https://new.qq.com/rain/a/20230421A0AGPB00)
