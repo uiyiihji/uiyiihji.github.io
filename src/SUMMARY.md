@@ -10,3 +10,4 @@
 - [杭州成立 HR 智库联盟](./08-hhvbhrlmmg.md)
 - [meetHR](./09-meethr.md)
 - [青岛浩谦信息](./10-qydkhkqm.md)
+- [郑州德一集团](./11-vgvbdeyi.md)
