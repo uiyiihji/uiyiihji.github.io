@@ -83,7 +83,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="01-rfliziyrzsjmdemimi.html"><strong aria-hidden="true">1.</strong> 人力资源总监的秘密</a></li><li class="chapter-item expanded "><a href="02-dshlksguxrvj.html"><strong aria-hidden="true">2.</strong> 东海控股集团</a></li><li class="chapter-item expanded "><a href="03-liyjhsynsi.html"><strong aria-hidden="true">3.</strong> 李彦宏：中国人愿意隐私换便捷</a></li><li class="chapter-item expanded "><a href="04-huyabklicitv.html"><strong aria-hidden="true">4.</strong> 虎牙暴力辞退</a></li><li class="chapter-item expanded "><a href="05-ufvbybiecitv.html"><strong aria-hidden="true">5.</strong> 神州优车 HR 宣读辞退书</a></li><li class="chapter-item expanded "><a href="06-ybzjlkbjblya.html"><strong aria-hidden="true">6.</strong> 有赞强推 996</a></li><li class="chapter-item expanded "><a href="07-gdvbybyjgjrklivi.html" class="active"><strong aria-hidden="true">7.</strong> 广州游雁 HR 干扰离职</a></li><li class="chapter-item expanded "><a href="08-hhvbhrlmmg.html"><strong aria-hidden="true">8.</strong> 杭州成立 HR 智库联盟</a></li><li class="chapter-item expanded "><a href="09-meethr.html"><strong aria-hidden="true">9.</strong> meetHR</a></li><li class="chapter-item expanded "><a href="10-qydkhkqm.html"><strong aria-hidden="true">10.</strong> 青岛浩谦信息</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="01-rfliziyrzsjmdemimi.html"><strong aria-hidden="true">1.</strong> 人力资源总监的秘密</a></li><li class="chapter-item expanded "><a href="02-dshlksguxrvj.html"><strong aria-hidden="true">2.</strong> 东海控股集团</a></li><li class="chapter-item expanded "><a href="03-liyjhsynsi.html"><strong aria-hidden="true">3.</strong> 李彦宏：中国人愿意隐私换便捷</a></li><li class="chapter-item expanded "><a href="04-huyabklicitv.html"><strong aria-hidden="true">4.</strong> 虎牙暴力辞退</a></li><li class="chapter-item expanded "><a href="05-ufvbybiecitv.html"><strong aria-hidden="true">5.</strong> 神州优车 HR 宣读辞退书</a></li><li class="chapter-item expanded "><a href="06-ybzjlkbjblya.html"><strong aria-hidden="true">6.</strong> 有赞强推 996</a></li><li class="chapter-item expanded "><a href="07-gdvbybyjgjrklivi.html" class="active"><strong aria-hidden="true">7.</strong> 广州游雁 HR 干扰离职</a></li><li class="chapter-item expanded "><a href="08-hhvbhrlmmg.html"><strong aria-hidden="true">8.</strong> 杭州成立 HR 智库联盟</a></li><li class="chapter-item expanded "><a href="09-meethr.html"><strong aria-hidden="true">9.</strong> meetHR</a></li><li class="chapter-item expanded "><a href="10-qydkhkqm.html"><strong aria-hidden="true">10.</strong> 青岛浩谦信息</a></li><li class="chapter-item expanded "><a href="11-vgvbdeyi.html"><strong aria-hidden="true">11.</strong> 郑州德一集团</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -197,6 +197,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
