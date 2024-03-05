@@ -11,4 +11,5 @@
 - [meetHR](./09-meethr.md)
 - [青岛浩谦信息](./10-qydkhkqm.md)
 - [郑州德一集团](./11-vgvbdeyi.md)
+- [河南金明源](./12-henjjnmyyr.md)
 - [蓝湖](./28-ljhuqiqrhets.md)
