@@ -73,6 +73,5 @@
 资料
 
 - [离职员工举报猿辅导单日加班超6小时：上厕所需报备，不在工位开除组籍_公司_家长_措施 (sohu.com)](https://www.sohu.com/a/667207376_120952561)
-- [离职员工举报猿辅导单日加班超6小时：上厕所需报备，不在工位会开除-上游新闻 汇聚向上的力量 (cqcb.com)](https://www.cqcb.com/shishijingwei/2023-04-16/5235694_pc.html)
-- [离职员工举报猿辅导单日加班超6小时：上厕所需报备，不在工位会开除-上游新闻 汇聚向上的力量 (cqcb.com)](https://www.cqcb.com/shishijingwei/2023-04-16/5235694_pc.html)
+- [离职员工举报猿辅导单日加班超6小时：上厕所需报备，不在工位会开除-上游新闻](https://www.cqcb.com/shishijingwei/2023-04-16/5235694.html)
 - [离职员工举报猿辅导单日加班超6小时：上厕所需报备，不在工位开除组籍 - 封面新闻 (thecover.cn)](https://www.thecover.cn/news/rXof2xoky4GH90qSdq8Jkw==)
